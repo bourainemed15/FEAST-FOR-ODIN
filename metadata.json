@@ -1,0 +1,5 @@
+{
+  "name": "A Feast for Odin: Solo Saga",
+  "description": "A high-fidelity solo implementation of the legendary board game. Manage resources, place polyomino tiles, and survive the winter in this strategic Viking simulator.",
+  "requestFramePermissions": []
+}
